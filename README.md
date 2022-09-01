@@ -11,6 +11,7 @@
 5. The tiles list should be aligned to the bottom. You should use the other screen space to center Logo vertically and horizontally. See the example below.
 
 ![task_one](resources/task_one.png)
+
 6. If there are too many items, Logo should be aligned horizontally by it’s minimal margin and a scroll appears. See the example below.
 
 ![task_two](resources/task_two.png)
