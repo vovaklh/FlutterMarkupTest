@@ -15,4 +15,6 @@
 
 
 ## Result
-![result](resources/flutter_markup_test.mp4)
+Please click the image below to see the video
+
+[![result](resources/result.png)](https://drive.google.com/file/d/1kzS07MRIGUBaqYtLeF373VyXOrzMV9lp/view?usp=sharing)
